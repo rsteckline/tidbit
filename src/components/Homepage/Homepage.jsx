@@ -2,14 +2,15 @@ import { useEffect, useState } from 'react';
 import getNews  from '../../apiCalls';
 import './Homepage.css';
 import HomepageList from '../HomepageList/HomepageList';
+import { Link } from 'react-router-dom';
 
 export default function Homepage() {
   const [articles, setArticles] = useState([]);
 
   useEffect(() => {
-    getNews().then(data => {
-      setArticles(data.articles);
-    });
+    if (!articles.length) {
+        getNews().then(data => setArticles(data.articles));
+      }
   }, []);
 
   return (
