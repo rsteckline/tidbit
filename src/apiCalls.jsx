@@ -3,9 +3,7 @@ function getNews() {
       'https://newsapi.org/v2/top-headlines?country=us&apiKey=6caedfe4e93a416aa2a44571703532bf',
     )
     .then(resp => resp.json())
-    .then(data => {
-      console.log(data);
-      return data;
+    .then(data => {return data;
     })
     .catch(error => {
       console.error("Error fetching news:", error);
