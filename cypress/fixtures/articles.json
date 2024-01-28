@@ -1,0 +1,264 @@
+{
+    "articles": [
+    {
+        "source": {
+            "id": "reuters",
+            "name": "Reuters"
+        },
+        "author": "Reuters",
+        "title": "UN agency probes staff suspected of role in Oct 7 attacks on Israel - Reuters",
+        "description": null,
+        "url": "https://www.reuters.com/world/middle-east/un-palestinian-refugee-agency-investigates-staff-suspected-role-israel-attacks-2024-01-26/",
+        "urlToImage": null,
+        "publishedAt": "2024-01-26T16:31:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Kotaku"
+        },
+        "author": "Levi Winslow",
+        "title": "Report: Microsoft Cancels Blizzard's Survival Game Amid Layoffs - Kotaku",
+        "description": "Codenamed ‘Odyssey,’ the now-dead project was compared to the likes of Minecraft and Rust",
+        "url": "https://kotaku.com/xbox-activision-blizzard-odyssey-survival-game-cancel-1851200488",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4e98227b47e9d0a83693e2b587651e92.jpg",
+        "publishedAt": "2024-01-26T16:00:00Z",
+        "content": "Microsoft slashed nearly 2,000 jobs across its gaming division on January 25, impacting staff at Activision Blizzard, ZeniMax, and Xbox. And now, weve learned that an in-development survival game fro… [+2783 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NBCSports.com"
+        },
+        "author": "Mike Florio",
+        "title": "With door to head-coaching job apparently shut, what will Bill Belichick do in 2024? - NBC Sports",
+        "description": "One of the greatest coaches of all time is unemployed.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-door-to-head-coaching-job-apparently-shut-what-will-bill-belichick-do-in-2024",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/74fe797/2147483647/strip/true/crop/3556x2000+0+259/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbf%2F7d%2F110fdfc54d749c808a4370f16dea%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1918186274",
+        "publishedAt": "2024-01-26T15:59:39Z",
+        "content": "One of the greatest coaches of all time is unemployed. With the Falcons not hiring Bill Belichick, he might stay that way, for now.\r\nSo what will he do in 2024, if (as it appears) neither the Command… [+3260 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NBC New York"
+        },
+        "author": "Maria LaRosa",
+        "title": "Projected snow totals for NY area shift ahead of Sunday storm - NBC New York",
+        "description": "Storm Team 4 is tracking the potential for some snow early next week as temperatures dip down to more normal levels for this time of year, though it appears it may still be too warm to do much in the way of accumulation. The next storm moves in pretty quickly…",
+        "url": "http://www.nbcnewyork.com/weather/weather-stories/weather-snow-rain-forecast-10-day-nyc/5074795/",
+        "urlToImage": "https://media.nbcnewyork.com/2024/01/snow-map-for-sunday.png?resize=1200%2C675&quality=85&strip=all",
+        "publishedAt": "2024-01-26T15:58:37Z",
+        "content": "<ul><li>It stays dreary outside through the Friday morning commute; we'll dry out by midday, but clouds will linger into Saturday</li><li>Sunday brings wind and rain back which may turn to snow Sunda… [+1391 chars]"
+    },
+    {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Lee Hutchinson",
+        "title": "I abandoned OpenLiteSpeed and went back to good ol' Nginx - Ars Technica",
+        "description": "One weather site’s sudden struggles, and musings on why change isn’t always good.",
+        "url": "https://arstechnica.com/gadgets/2024/01/i-abandoned-openlitespeed-and-went-back-to-good-ol-nginx/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-200414013-001-760x380.jpg",
+        "publishedAt": "2024-01-26T15:29:04Z",
+        "content": "Enlarge/ Ish is on fire, yo.\r\n37\r\nSince 2017, in what spare time I have (ha!), I help my colleague Eric Berger host his Houston-area weather forecasting site, Space City Weather. Its an interesting h… [+3823 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Adam Reiss, Dareh Gregorian, Vaughn Hillyard",
+        "title": "Trump storms out of courtroom during closing arguments in E. Jean Carroll's defamation damages trial - NBC News",
+        "description": "Donald Trump abruptly stormed out of court during closing arguments in the E. Jean Carroll damages trial Friday as her attorney was telling jurors the former president is a liar who thinks \"the rules don't apply to him.\"",
+        "url": "https://www.nbcnews.com/politics/donald-trump/trump-e-jean-carroll-trial-closing-arguments-rcna135756",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-01/240126-donald-trump-one-time-use-ew-1029a-e29fca.jpg",
+        "publishedAt": "2024-01-26T15:25:11Z",
+        "content": "Donald Trump abruptly stormed out of court during closing arguments in the E. Jean Carroll damages trial Friday as her attorney was telling jurors the former president is a liar who thinks \"the rules… [+7945 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Katherine Itoh",
+        "title": "Family of woman, 85, who was killed by a 10-foot alligator sues Florida retirement community - NBC News",
+        "description": "The family of an elderly woman killed by a 10-foot alligator last year filed a wrongful death lawsuit Thursday against the retirement community where the attack occurred.",
+        "url": "https://www.nbcnews.com/news/us-news/family-woman-85-killed-10-foot-alligator-sues-florida-retirement-commu-rcna135826",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-01/240126-florida-alligator-attack-gloria-serge-mn-0900-b2be2e.jpg",
+        "publishedAt": "2024-01-26T15:11:39Z",
+        "content": "The family of an elderly woman killed by a 10-foot alligator last year filed a wrongful death lawsuit Thursday against the retirement community where the attack occurred.\r\nGloria Serge, 85, was walki… [+1851 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Ashley Strickland",
+        "title": "Hubble finds water vapor in small exoplanet’s atmosphere - CNN",
+        "description": "Astronomers used the Hubble Space Telescope to make a landmark discovery of water vapor in the atmosphere of a planet just twice Earth’s diameter in size.",
+        "url": "https://www.cnn.com/2024/01/26/world/exoplanet-water-vapor-hubble-scn/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/stsci-01hh2qh7txgh1jpc1x2p08x72d.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-01-26T15:04:00Z",
+        "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nAstronomers using the Hubble Space Telescope have dete… [+5183 chars]"
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": null,
+        "title": "Johnson fires warning shot at Senate border talks - POLITICO",
+        "description": "The GOP speaker warned that a forthcoming deal linking the border and foreign aid could be dead on arrival in his chamber.",
+        "url": "https://www.politico.com/live-updates/2024/01/26/congress/johnson-shot-at-border-deal-senate-ukraine-00138062",
+        "urlToImage": "https://www.politico.com/dims4/default/35d5561/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F4f%2F46%2Fdb894073416da2cfe0ab8bf82592%2Fu-s-congress-17164.jpg",
+        "publishedAt": "2024-01-26T15:02:58Z",
+        "content": ""
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "YouTube"
+        },
+        "author": null,
+        "title": "Jannik Sinner ends Novak Djokovic’s 33-game streak to reach first Grand Slam final | Australian Open - ESPN",
+        "description": "Jannik Sinner ends Novak Djokovic’s 33-game streak to reach first Grand Slam final | Australian OpenWatch as Jannik Sinner stuns Novak Djokovic in the Austra...",
+        "url": "https://www.youtube.com/watch?v=TtORn8AYUCM",
+        "urlToImage": "https://i.ytimg.com/vi/TtORn8AYUCM/maxresdefault.jpg",
+        "publishedAt": "2024-01-26T14:56:10Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "financial-times",
+            "name": "Financial Times"
+        },
+        "author": "Mehul Srivastava, James Shotter, Rob Rose",
+        "title": "ICJ orders Israel to limit harm to Palestinians in Gaza - Financial Times",
+        "description": "Top UN court rejects Israeli bid to throw out genocide case",
+        "url": "https://www.ft.com/content/4ce014ad-f849-4a14-a6e0-8bb0cf8d4c12",
+        "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F38eebef9-94da-46c4-88c1-023a5f4e822f.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+        "publishedAt": "2024-01-26T14:37:17Z",
+        "content": "The International Court of Justice has ordered Israel to limit harm to Palestinians in Gaza in a politically explosive case brought by South Africa that alleges the country is committing genocide in … [+3865 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Post"
+        },
+        "author": "Snejana Farberov",
+        "title": "Russian officials stopped last minute from flying on crashed military plane that killed 65 POWs: Ukraine - New York Post ",
+        "description": "Russia has accused Ukraine of shooting down the plane carrying its own PoWs.",
+        "url": "https://nypost.com/2024/01/26/news/top-russian-officials-ordered-not-to-fly-on-doomed-plane/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/01/75510875.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2024-01-26T14:11:00Z",
+        "content": "Senior Russian officials were due to fly on the doomed military plane that crashed Wednesday, killing around 65 Ukrainian prisoners of war but were stopped at the last moment by their security servic… [+3249 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Jon Porter",
+        "title": "Samsung's new phones replace Google AI with Baidu in China - The Verge",
+        "description": "Samsung is tapping Chinese tech giant Baidu to power the Galaxy S24’s Galaxy AI features in China. There’s no mention of Google, whose tech appears elsewhere.",
+        "url": "https://www.theverge.com/2024/1/26/24051509/samsung-galaxy-s24-china-launch-baidu-ernie-artificial-intelligence-ai",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/mA66TCD28d_9I5ZFnsRpsEvb5u8=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25230413/DSC06323_processed.jpg",
+        "publishedAt": "2024-01-26T14:07:42Z",
+        "content": "Samsungs new phones replace Google AI with Baidu in China\r\nSamsungs new phones replace Google AI with Baidu in China\r\n / At the Chinese launch of its new Galaxy S24 series, Samsung Electronics China … [+2175 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investor's Business Daily"
+        },
+        "author": "Investor's Business Daily",
+        "title": "Key Federal Reserve Inflation Rate's Slide Puts March Rate Cut In Play; S&P 500 Futures Waver - Investor's Business Daily",
+        "description": null,
+        "url": "https://www.investors.com/news/economy/key-fed-inflation-rates-slide-puts-march-rate-cut-in-play-sp-500/",
+        "urlToImage": null,
+        "publishedAt": "2024-01-26T14:05:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Isabelle Lee and Esha Dey",
+        "title": "Tesla Poised for 550% Gain, Says Fund Manager Unfazed by Wipeout - Yahoo Finance",
+        "description": "(Bloomberg) -- Tesla Inc.’s slowing growth and shrinking profit have made it the weakest stock on the Nasdaq 100 this year. Fund manager David Baron is...",
+        "url": "https://finance.yahoo.com/news/tesla-poised-550-gain-says-140000054.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_yBB7wevNmsMBH.tdIp.xA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDY-/https://media.zenfs.com/en/bloomberg_markets_842/72f660b9a9dce1b39b72b4719f64e57a",
+        "publishedAt": "2024-01-26T14:00:00Z",
+        "content": "(Bloomberg) -- Tesla Inc.s slowing growth and shrinking profit have made it the weakest stock on the Nasdaq 100 this year. Fund manager David Baron is betting it will be a bump in the road for Elon M… [+4018 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "KIM CHANDLER",
+        "title": "Alabama nitrogen gas execution reignites US capital punishment debate - The Associated Press",
+        "description": "A man put to death using nitrogen gas appeared to shake and convulse on the gurney as Alabama carried out the first-of-its-kind execution that once again placed the United States at the forefront of the debate over capital punishment. Kenneth Eugene Smith app…",
+        "url": "https://apnews.com/article/nitrogen-execution-death-penalty-alabama-6d66344d3199f8c58f2408baa3df0738",
+        "urlToImage": "https://dims.apnews.com/dims4/default/c0e0cac/2147483647/strip/true/crop/1961x1103+20+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F98%2Fab%2F36f7df23a9bd6d65dc6f0fc76697%2Fc048e75fab0548ba8fab1142edbf3144",
+        "publishedAt": "2024-01-26T13:58:00Z",
+        "content": "ATMORE, Ala. (AP) A man put to death using nitrogen gas appeared to shake and convulse on the gurney as Alabama carried out the first-of-its-kind execution that once again placed the United States at… [+8210 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NCAA.com"
+        },
+        "author": "NCAA.com",
+        "title": "No. 1 South Carolina escapes No. 9 LSU in top-10 matchup - NCAA.com",
+        "description": "Here's a one-stop-shop for everything to know about the South Carolina vs. LSU women's basketball game on Thursday, Jan. 25, including live updates, scores and more.",
+        "url": "https://www.ncaa.com/live-updates/basketball-women/d1/no-1-south-carolina-escapes-no-9-lsu-top-10-matchup",
+        "urlToImage": "https://www.ncaa.com/_flysystem/public-s3/images/2024-01/South-Carolina-beats-LSU-women%27s-basketball.jpeg",
+        "publishedAt": "2024-01-26T13:56:02Z",
+        "content": "Angel Reese frantically sprinted down the court in the fourth quarter of Thursday's blockbuster matchup between No. 1 South Carolina and No. 9 LSU, hoping to prevent Gamecock guard Raven Johnson from… [+3031 chars]"
+    },
+    {
+        "source": {
+            "id": "espn",
+            "name": "ESPN"
+        },
+        "author": null,
+        "title": "Vince McMahon, WWE sued; ex-staffer alleges sexual misconduct - ESPN",
+        "description": "A former WWE employee has filed a federal lawsuit accusing executive Vince McMahon and another former executive of serious sexual misconduct, including offering her to a star wrestler for sex.",
+        "url": "https://www.espn.com/wwe/story/_/id/39393313/vince-mcmahon-wwe-sued-ex-staffer-alleges-sexual-misconduct",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0905%2Fr426573_1296x729_16%2D9.jpg",
+        "publishedAt": "2024-01-26T13:35:00Z",
+        "content": "Jan 26, 2024, 08:35 AM ET\r\nA former WWE employee filed a federal lawsuit Thursday accusing executive Vince McMahon and another former executive of sexual misconduct, including offering her to a star … [+3085 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Nate Davis",
+        "title": "NFL championship game picks: Who among Chiefs, Ravens, 49ers and Lions reaches Super Bowl 58? - USA TODAY",
+        "description": "The NFL playoffs approach their climax Sunday as the Chiefs, Ravens, 49ers and Lions battle for berths in Super Bowl 58.",
+        "url": "https://www.usatoday.com/story/sports/nfl-picks/2024/01/26/nfl-playoff-picks-predictions-odds-chiefs-ravens-lions-49ers-afc-nfc-championship-games/72364333007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/01/26/USAT/72364452007-champ-illo.jpg?crop=843,475,x837,y812&width=843&height=475&format=pjpg&auto=webp",
+        "publishedAt": "2024-01-26T13:32:09Z",
+        "content": "And then there were four. Two conference title games to determine which of the NFL's final quartet of playoff participants qualify for Super Bowl 58 in Las Vegas next month.\r\nSunday's action will beg… [+1668 chars]"
+    }
+  ]
+}

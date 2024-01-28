@@ -1,0 +1,15 @@
+.ArticlePreview {
+    background-color: white;
+    cursor: pointer;
+    max-width: 20rem;
+    padding: 2rem;
+    border-radius: 5px;
+    padding: 1rem;
+    padding-bottom: 2rem;
+    position: relative;
+  }
+  
+  .ArticlePreview-img {
+    max-width: 15rem;
+    border-radius: 5px;
+  }
