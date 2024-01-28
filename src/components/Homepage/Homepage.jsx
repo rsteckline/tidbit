@@ -7,14 +7,9 @@ export default function Homepage({ searchQuery }) {
   const [articles, setArticles] = useState([]);
 
   useEffect(() => {
-    getNews().then(data => {
-      if (data && data.articles) {
-        const filteredArticles = data.articles.filter(article => {
-          return article.author && article.title && article.publishedAt && article.description;
-        });
-        setArticles(filteredArticles);
-      }
-    });
+    if (!articles.length) {
+      getNews().then(data => setArticles(data.articles));
+    }
   }, []);
 
   const filteredArticles = articles.filter(article => {
@@ -28,11 +23,7 @@ export default function Homepage({ searchQuery }) {
     <div className='page'>
       <main>
         <h2 className='h2'>Latest Top Stories</h2>
-        {filteredArticles.length > 0 ? (
-          <HomepageList articles={filteredArticles}/>
-        ) : searchQuery !== '' && (
-          <div className="no-results">No matching results</div>
-        )}
+        <HomepageList articles={filteredArticles}/>
       </main>
     </div>
   );
