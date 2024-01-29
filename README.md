@@ -23,7 +23,8 @@ Tidbit is an efficient front-end application designed to display the latest top 
 <br>
 <img width="551" alt="Screenshot 2024-01-28 at 6 57 54 PM" src="https://github.com/rsteckline/tidbit/assets/135551833/9ad21592-2f09-4618-994c-b62a29236c7a">
 <br>
-[Project Board](https://github.com/users/rsteckline/projects/8)
+<a href="https://github.com/users/rsteckline/projects/8">Project Board</a>
+<br>
 </details>
 
 <details>
@@ -31,7 +32,8 @@ Tidbit is an efficient front-end application designed to display the latest top 
 <br>
 <img src="https://github.com/rsteckline/tidbit/assets/135551833/8a1b497b-881e-4c15-ab71-1db7b88f581d">
 <br>
-[Wireframe](https://www.figma.com/file/l0hvLRhuZjH6Io5vNDnNfw/Tidbit?type=design&node-id=0%3A1&mode=design&t=EZVAwJM35Pmwqfk3-1)
+<a href="https://www.figma.com/file/l0hvLRhuZjH6Io5vNDnNfw/Tidbit?type=design&node-id=0%3A1&mode=design&t=EZVAwJM35Pmwqfk3-1">Wireframe</a>
+<br>
 </details>
 
 <details>
